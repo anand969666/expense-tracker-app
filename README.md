@@ -71,3 +71,6 @@ An expense tracker app is more than just a digital notebook; it is a powerful fi
 For individuals, it provides control and clarity over personal finances. For students and developers, building such an app enhances programming skills and problem-solving abilities. The combination of financial discipline and technical innovation makes the expense tracker app highly valuable.
 
 Overall, an expense tracker app promotes smarter financial decisions, long-term savings, and financial independence. It is a practical solution for modern financial challenges and a highly beneficial project for both personal use and academic development.
+![Image](https://github.com/user-attachments/assets/ced5a85b-576e-488e-9027-dddff2f13f49)
+![Image](https://github.com/user-attachments/assets/f668540f-46cc-4dd1-b7ae-430ca504f98c)
+![Image](https://github.com/user-attachments/assets/3296dcb2-9166-4949-8808-8c5d5f9fce84)
